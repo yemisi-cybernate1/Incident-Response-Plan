@@ -19,7 +19,7 @@ Incident Responce Plan aimed to develop a structural approach for detection, res
 - Kali Linux Tools- For controlling testing and simulation of attacks
 - Google Workplace: For incident documentation and communication
 - Splunk: For log collection, correlation and alert generation
-- Incident Response Templates: For structured planningband reporting - NIST IR plan formarts)
+- Incident Response Templates: For structured planning and reporting - NIST IR plan formarts)
 - Wireshark: For analyzing network traffic and identifying anomalise
   
 ### Steps
