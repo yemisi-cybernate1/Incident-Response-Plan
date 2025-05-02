@@ -1,4 +1,4 @@
-# Incident-Response-Plan
+# Incident Response-Plan
 ### Objective
 
 Incident Responce Plan aimed to develop a structural approach for detection, responding to, and recovering from cybersecurity incidents, ensuring minimal impact and continous improvement.
