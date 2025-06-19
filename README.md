@@ -25,4 +25,4 @@ Incident Responce Plan aimed to develop a structural approach for detection, res
 ### Steps
 Incident Reponse Plan Project:
 Ref 1:
-
+https://i.imgur.com/s9sO1Kl.png
